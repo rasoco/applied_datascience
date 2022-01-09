@@ -20,5 +20,5 @@ python3 app.py
 De esta manera, ejecutaríamos todas las funciones alojada en nuestro archivo. 
 
 ## Coverage
-Para determinar la calidad de los tests desarrollados y para las partes críticas del código que no han sido testeadas hemos utilizado la herramienta URL: [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/)
+Para determinar la calidad de los tests desarrollados y para las partes críticas del código que no han sido testeadas hemos utilizado la herramienta [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.3/)
 
